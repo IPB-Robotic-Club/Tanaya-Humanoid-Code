@@ -77,8 +77,5 @@ For each robot joint:
 * [Dynamixel2Arduino Library](https://github.com/ROBOTIS-GIT/Dynamixel2Arduino?utm_source=chatgpt.com)
 * [Dynamixel Wizard 2.0](https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_wizard2/?utm_source=chatgpt.com)
 * [ROBOTIS Documentation Center](https://docs.robotis.com/?utm_source=chatgpt.com)
-*
-
-[DYNAMIXEL Quick Start Guide with DYNAMIXEL Wizard 2.0](https://www.youtube.com/watch?v=JRRZW_l1V-U&utm_source=chatgpt.com)
 
 
