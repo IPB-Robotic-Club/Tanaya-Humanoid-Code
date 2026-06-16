@@ -4,7 +4,7 @@
 
 Developed a humanoid dancing robot using multiple Dynamixel AX-12A smart servos. The project involved configuring servo communication, calibrating joint angles, programming synchronized body movements, and creating dance routines using Arduino and ROBOTIS software tools.
 <p align="center">
-  <img src="images/IMG20240524084239.jpg" width="450" />
+  <img src="IMG20240524084239.jpg" width="450" />
 </p>
 
 Terdapat 3 divisi, yaitu mekanik, elektronik dan programming.
