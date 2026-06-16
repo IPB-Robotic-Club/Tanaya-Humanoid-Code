@@ -6,19 +6,19 @@ Developed a humanoid dancing robot using multiple Dynamixel AX-12A smart servos.
 
 ## Development Process
 
-### Install Required Software
-
-#### Arduino IDE
-
-Used for developing and uploading motion control programs to the robot controller.
-
-[Arduino IDE Download](https://www.arduino.cc/en/software?utm_source=chatgpt.com)
+### ESP32 Board Package
+Installed the ESP32 board package through the Arduino IDE Board Manager to enable programming and uploading code to the ESP32.
+Add the Board Manager URL
+1. Open the Arduino IDE.
+2. Go to File > Preferences (or Arduino IDE > Settings... on macOS).
+3. Locate the Additional Boards Manager URLs field at the bottom.
+4. Click the icon to the right of the field and paste the following URL into the box: https://espressif.github.io/arduino-esp32/package_esp32_index.json
 
 #### Dynamixel2Arduino Library
 
 Used to communicate with AX-12A servos through the Dynamixel protocol from Arduino. The library supports reading and writing servo parameters such as position, speed, and torque. ([Arduino Libraries][1])
 
-[Dynamixel2Arduino GitHub Repository](https://github.com/ROBOTIS-GIT/Dynamixel2Arduino?utm_source=chatgpt.com)
+[Dynamixel2Arduino GitHub Repository](https://github.com/jumejume1/Dynamixel-12A-ESPBlynk)
 
 ### Install Dynamixel Wizard 2.0
 
