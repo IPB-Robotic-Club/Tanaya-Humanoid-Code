@@ -65,7 +65,22 @@ For each robot joint:
 
 [DYNAMIXEL Quick Start Guide with DYNAMIXEL Wizard 2.0](https://www.youtube.com/watch?v=JRRZW_l1V-U&utm_source=chatgpt.com)
 
-Dokumentasi ini cukup kuat untuk dimasukkan ke GitHub README, CV, maupun LinkedIn Project Experience.
+# Dokumentasi Tanaya V1 KRSTI 2023 by Zerlan
 
-[1]: https://www.arduinolibraries.info/libraries/dynamixel2-arduino?utm_source=chatgpt.com "Dynamixel2Arduino - Arduino Libraries"
-[2]: https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_wizard2/?utm_source=chatgpt.com "DYNAMIXEL Wizard 2.0"
+<p align="center">
+  <img src="images/IMG20240524084239.jpg" width="450" />
+</p>
+
+Terdapat 3 divisi, yaitu mekanik, elektronik dan programming.
+Detail dokumentasi setiap divisi dipisahkan sesuai branch pada repositori ini.
+Mekanik
+- [Mekanik](https://github.com/IPB-Robotic-Club/tanaya-v1-krsti-2023/tree/mechanic)
+
+Electrical
+- [Schematic](https://github.com/IPB-Robotic-Club/tanaya-v1-krsti-2023/tree/electro)
+- [Electrical Test Program](https://github.com/IPB-Robotic-Club/krsti2022-program)
+
+Programming
+- [Program Code Test](https://github.com/IPB-Robotic-Club/Code-move-robot)
+- [Program Code Final](https://github.com/IPB-Robotic-Club/JuaraKRSTI-2023)
+
