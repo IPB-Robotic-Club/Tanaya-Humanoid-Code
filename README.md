@@ -3,6 +3,22 @@
 ## Project Overview
 
 Developed a humanoid dancing robot using multiple Dynamixel AX-12A smart servos. The project involved configuring servo communication, calibrating joint angles, programming synchronized body movements, and creating dance routines using Arduino and ROBOTIS software tools.
+<p align="center">
+  <img src="images/IMG20240524084239.jpg" width="450" />
+</p>
+
+Terdapat 3 divisi, yaitu mekanik, elektronik dan programming.
+Detail dokumentasi setiap divisi dipisahkan sesuai branch pada repositori ini.
+Mekanik
+- [Mekanik](https://github.com/IPB-Robotic-Club/tanaya-v1-krsti-2023/tree/mechanic)
+
+Electrical
+- [Schematic](https://github.com/IPB-Robotic-Club/tanaya-v1-krsti-2023/tree/electro)
+- [Electrical Test Program](https://github.com/IPB-Robotic-Club/krsti2022-program)
+
+Programming
+- [Program Code Test](https://github.com/IPB-Robotic-Club/Code-move-robot)
+- [Program Code Final](https://github.com/IPB-Robotic-Club/JuaraKRSTI-2023)
 
 ## Development Process
 
@@ -65,22 +81,4 @@ For each robot joint:
 
 [DYNAMIXEL Quick Start Guide with DYNAMIXEL Wizard 2.0](https://www.youtube.com/watch?v=JRRZW_l1V-U&utm_source=chatgpt.com)
 
-# Dokumentasi Tanaya V1 KRSTI 2023 by Zerlan
-
-<p align="center">
-  <img src="images/IMG20240524084239.jpg" width="450" />
-</p>
-
-Terdapat 3 divisi, yaitu mekanik, elektronik dan programming.
-Detail dokumentasi setiap divisi dipisahkan sesuai branch pada repositori ini.
-Mekanik
-- [Mekanik](https://github.com/IPB-Robotic-Club/tanaya-v1-krsti-2023/tree/mechanic)
-
-Electrical
-- [Schematic](https://github.com/IPB-Robotic-Club/tanaya-v1-krsti-2023/tree/electro)
-- [Electrical Test Program](https://github.com/IPB-Robotic-Club/krsti2022-program)
-
-Programming
-- [Program Code Test](https://github.com/IPB-Robotic-Club/Code-move-robot)
-- [Program Code Final](https://github.com/IPB-Robotic-Club/JuaraKRSTI-2023)
 
